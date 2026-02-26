@@ -272,10 +272,15 @@ SOLUCIONES:
 
 Explicacion de como inicia el sistema:
 ![Explicacion sistema 1](../imgs/imagenes%202%20grado/2%20grado%20parte%201.png)
+
 ![Explicacion sistema 2](../imgs/imagenes%202%20grado/2%20grado%20parte%202.png)
+
 ![Explicacion sistema 3](../imgs/imagenes%202%20grado/2%20grado%20parte%203.png)
+
 ![Explicacion sistema 1](../imgs/imagenes%202%20grado/2%20grado%20parte%204.png)
+
 ![Explicacion sistema 1](../imgs/imagenes%202%20grado/2%20grado%20parte%205.png)
+
 ![Explicacion sistema 1](../imgs/imagenes%202%20grado/2-grado%20parte%206.png)
 
 Aqui vamos a realizar un nuestro 1 ejemplo:
@@ -285,13 +290,17 @@ x² - 5x + 6 = 0
 ```
 
 ![Ejemplo 1](../imgs/imagenes%202%20grado/aplicacion%201.png)
+
 ![Ejemplo 1](../imgs/imagenes%202%20grado/aplicacion%201.1.png)
+
 ![Ejemplo 1](../imgs/imagenes%202%20grado/aplicacion%201.2.png)
+
 ![Ejemplo 1](../imgs/imagenes%202%20grado/aplicacion%201.3.png)
 
 Como nosotros lo veriamos:
 
 ![Ejemplo 1](../imgs/imagenes%202%20grado/ejemplo%202%20grado%20parte%201.png)
+
 ![Ejemplo 1](../imgs/imagenes%202%20grado/ejemplo%202%20grado%20parte%201.1.png)
 
 Aqui vamos a realizar un nuestro 2 ejemplo:
@@ -301,13 +310,17 @@ Aqui vamos a realizar un nuestro 2 ejemplo:
 ```
 
 ![Ejemplo 2](../imgs/imagenes%202%20grado/aplicacion%202.png)
+
 ![Ejemplo 2](../imgs/imagenes%202%20grado/aplicacion%202.1.png)
+
 ![Ejemplo 2](../imgs/imagenes%202%20grado/aplicacion%202.2.png)
+
 ![Ejemplo 2](../imgs/imagenes%202%20grado/aplicacion%202.3.png)
 
 Como nosotros lo veriamos:
 
 ![Ejemplo 2](../imgs/imagenes%202%20grado/ejemplo%202%20grado%202.png)
+
 ![Ejemplo 2](../imgs/imagenes%202%20grado/ejemplo%202%20grado%202.1.png)
 
 
