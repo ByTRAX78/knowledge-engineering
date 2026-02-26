@@ -278,6 +278,8 @@ Explicacion de como inicia el sistema:
 ![Explicacion sistema 1](../imgs/imagenes%202%20grado/2%20grado%20parte%205.png)
 ![Explicacion sistema 1](../imgs/imagenes%202%20grado/2-grado%20parte%206.png)
 
+
+
 Aqui vamos a realizar un nuestro 1 ejemplo:
 
 ```
@@ -302,6 +304,9 @@ Aqui vamos a realizar un nuestro 2 ejemplo:
 ![Ejemplo 2](../imgs/imagenes%202%20grado/aplicacion%202.1.png)
 ![Ejemplo 2](../imgs/imagenes%202%20grado/aplicacion%202.2.png)
 ![Ejemplo 2](../imgs/imagenes%202%20grado/aplicacion%202.3.png)
+
+
+
 
 Como nosotros lo veriamos:
 ![Ejemplo 2](../imgs/imagenes%202%20grado/ejemplo%202%20grado%202.png)
