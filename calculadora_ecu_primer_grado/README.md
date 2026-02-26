@@ -1,4 +1,4 @@
-# 🧮 Solucionador de Ecuaciones de Primer Grado - Ingeniería del Conocimiento
+# 🧮 Solucionador de Ecuaciones de Primer Grado
 
 Este proyecto implementa un motor de resolución algebraica basado en estructuras de nodos y transposición de términos. El objetivo es resolver ecuaciones de primer grado con diversas morfologías, permitiendo que el usuario defina la posición de la incógnita () y los operadores aritméticos ().
 
